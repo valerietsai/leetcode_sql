@@ -17,4 +17,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/valerietsai/leetcode_sql/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/valerietsai/leetcode_sql/tree/master/0596-classes-with-at-least-5-students) |
 | [0597-friend-requests-i-overall-acceptance-rate](https://github.com/valerietsai/leetcode_sql/tree/master/0597-friend-requests-i-overall-acceptance-rate) |
+| [0603-consecutive-available-seats](https://github.com/valerietsai/leetcode_sql/tree/master/0603-consecutive-available-seats) |
 <!---LeetCode Topics End-->
