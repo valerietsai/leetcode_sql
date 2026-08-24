@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0597-friend-requests-i-overall-acceptance-rate](https://github.com/valerietsai/leetcode_sql/tree/master/0597-friend-requests-i-overall-acceptance-rate) |
 | [0603-consecutive-available-seats](https://github.com/valerietsai/leetcode_sql/tree/master/0603-consecutive-available-seats) |
 | [0607-sales-person](https://github.com/valerietsai/leetcode_sql/tree/master/0607-sales-person) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/valerietsai/leetcode_sql/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/valerietsai/leetcode_sql/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
